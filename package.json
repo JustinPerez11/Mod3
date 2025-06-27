@@ -1,0 +1,11 @@
+{
+  "name": "venta-calculadoras",
+  "version": "1.0.0",
+  "description": "Un sitio web para vender calculadoras.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
